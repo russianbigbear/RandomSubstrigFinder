@@ -1,0 +1,12 @@
+graph{
+	4 -- 1[label = "cabxb&", weight = "1"];
+	6 -- 2[label = "cabxb&", weight = "1"];
+	0 -- 3[label = "cabxb&", weight = "1"];
+	0 -- 4[label = "ab", weight = "1"];
+	4 -- 5[label = "xb&", weight = "1"];
+	0 -- 6[label = "b", weight = "1"];
+	6 -- 7[label = "xb&", weight = "1"];
+	0 -- 8[label = "xb&", weight = "1"];
+	6 -- 9[label = "&", weight = "1"];
+	0 -- 10[label = "&", weight = "1"];
+}
